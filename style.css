@@ -1,0 +1,12 @@
+body {
+            background-color: lightgray;
+        }
+hr {
+            border-style: dotted none none;
+            width: 55%;
+            border-color: black;
+            border-width: 5px;
+        }
+h1 {
+    color: rgb(5, 5, 5);
+}
