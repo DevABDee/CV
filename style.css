@@ -10,3 +10,6 @@ hr {
 h1 {
     color: rgb(5, 5, 5);
 }
+img {
+    border-radius: 255px;
+}
